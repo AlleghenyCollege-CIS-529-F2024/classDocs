@@ -14,3 +14,19 @@ er_)
 
 This repository contains an archive of materials for the course.
 
+
+## Resources
+
+### Data
+
+The data for the project is available in `csv` format, as well as in a locally created SQLite3 data base. Check back here to find updates as they become available.
+
++ [Google Drive](https://drive.google.com/drive/folders/1A2rw5fk-xLNoEfMWpfYtPtoRG5OAd07o?usp=drive_link)
+
+
+### Methods
+
+Here we list URLs to resources for method-related aspects of the project.
+
++ [Neo4j](https://neo4j.com/)
+ 
