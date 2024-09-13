@@ -14,7 +14,6 @@ er_)
 
 This repository contains an archive of materials for the course.
 
-
 ## Resources
 
 ### Data
@@ -23,10 +22,9 @@ The data for the project is available in `csv` format, as well as in a locally c
 
 + [Google Drive](https://drive.google.com/drive/folders/1A2rw5fk-xLNoEfMWpfYtPtoRG5OAd07o?usp=drive_link)
 
-
 ### Methods
 
 Here we list URLs to resources for method-related aspects of the project.
 
-+ [Neo4j](https://neo4j.com/)
- 
+- [Neo4j](https://neo4j.com/)
+  - Building visual networks from text [Cypher](https://neo4j.com/docs/getting-started/appendix/tutorials/guide-import-relational-and-etl/)
