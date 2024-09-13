@@ -27,7 +27,8 @@ The data for the project is available in `csv` format, as well as in a locally c
 Here we list URLs to resources for method-related aspects of the project.
 
 - <a href="https://neo4j.com/" target="_blank">Neo4j</a>
-- <a href="https://neo4j.com/" target="_blank">[Getting Started](https://neo4j.com/docs/getting-started/appendix/tutorials/tutorials-overview/)</a>
+- <a href="https://neo4j.com/" target="_blank">[Tutorials Overview](https://neo4j.com/docs/getting-started/appendix/tutorials/tutorials-overview/)</a>
   - Tutorial: Import data from a relational database into Neo4j using 
-  <a href="https://neo4j.com/" target="_blank">[Cypher](https://neo4j.com/docs/getting-started/appendix/tutorials/guide-import-relational-and-etl/)</a>
-
+  <a href="https://neo4j.com/docs/getting-started/appendix/tutorials/guide-import-relational-and-etl/" target="_blank">Cypher</a>
+  
+  
