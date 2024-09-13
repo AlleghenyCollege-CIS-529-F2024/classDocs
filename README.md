@@ -1,4 +1,6 @@
-# CMPSC529-01: Internship: Computer Science
+# CMPSC529-01
+
+Internship: Computer Science
 
 Semester: Fall 2024
 
