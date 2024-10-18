@@ -23,7 +23,10 @@ The data for the project is available in `csv` format, as well as in a locally c
 
 ![logo](graphics/schema.png)
 
-+ Data is located in a [Google Drive](https://drive.google.com/drive/folders/1A2rw5fk-xLNoEfMWpfYtPtoRG5OAd07o?usp=drive_link)
+#### Data is located in a Google drive
++ [2024 data](https://drive.google.com/drive/folders/1cmKa67snSkRyTA70OBvxS3CEBy8AO07s?usp=drive_link)
+
++ [2023 data](https://drive.google.com/drive/folders/1A2rw5fk-xLNoEfMWpfYtPtoRG5OAd07o?usp=drive_link)
 
 ### Methods
 
